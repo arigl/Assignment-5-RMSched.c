@@ -5,6 +5,9 @@
 	Assignment: 5
 
 	Partner: Filip Augustkowski
+	
+	Resources
+	- Tristan Chilvers helped us a lot with certain functions of the program, really appreciate his help
 
 	Description:
 	- RMsched.c
